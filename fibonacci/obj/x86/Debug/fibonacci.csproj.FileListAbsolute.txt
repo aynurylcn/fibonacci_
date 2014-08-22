@@ -1,0 +1,5 @@
+D:\programlar\c# uygulamaları\fibonacci\fibonacci\bin\Debug\fibonacci.exe
+D:\programlar\c# uygulamaları\fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+D:\programlar\c# uygulamaları\fibonacci\fibonacci\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\programlar\c# uygulamaları\fibonacci\fibonacci\obj\x86\Debug\fibonacci.exe
+D:\programlar\c# uygulamaları\fibonacci\fibonacci\obj\x86\Debug\fibonacci.pdb
